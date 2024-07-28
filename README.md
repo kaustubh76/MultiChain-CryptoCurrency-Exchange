@@ -8,23 +8,7 @@
 
 ## How To Get Started:
 
-There are two ways to get this project up and running:
-
-1. Via Docker
-2. Via local node
-
----
-
-1. **Via Docker**
-
-    To get started with this method:
-
-    a. Make sure you have docker desktop up and running on
-
-    b. In your terminal, just type
-        `docker-compose up`
-
-2. **Via local node**
+ **Via local node**
 
     To get started with this method, make sure you have postgresql up and running on port 5432
 
